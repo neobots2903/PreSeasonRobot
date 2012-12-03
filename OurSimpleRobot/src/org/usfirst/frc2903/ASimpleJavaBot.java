@@ -30,6 +30,15 @@ public class ASimpleJavaBot extends SimpleRobot {
 	public Jaguar jag3 = new Jaguar(3); // Our motor.
 	public Jaguar jag4 = new Jaguar(4); // Our motor.
 	
+    public void autonomous() {
+        while(isAutonomous()) {
+        	
+        	
+        	
+        	
+        }
+    }
+
     /**
      * This function is called once each time the robot enters operator control.
      */
