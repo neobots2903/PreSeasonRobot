@@ -33,7 +33,7 @@ public class ASimpleJavaBot extends SimpleRobot {
     public void autonomous() {
         while(isAutonomous()) {
         	
-        	
+        	//something productive and school appropriate 
         	
         	
         }
