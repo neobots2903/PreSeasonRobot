@@ -34,7 +34,7 @@ public class ASimpleJavaBot extends SimpleRobot {
         while(isAutonomous()) {
         	
         	//something productive and school appropriate 
-        	
+        	// FRANCE POWAAA !!!!
         	// dun dun DUUUUUUUUUUUUUUN!!!!
         }
     }
